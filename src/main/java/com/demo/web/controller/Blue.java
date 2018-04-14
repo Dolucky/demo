@@ -12,6 +12,4 @@ public class Blue {
 
     private static int a = 0;
     private static int b = 1;
-
-    private static int c = 2;
 }
