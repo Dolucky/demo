@@ -6,6 +6,7 @@ package com.demo.web.controller;
 public class Blue {
     public static void main(String[] args) {
         System.out.println("");
+        System.out.println("aaaaaaaaaaaaaaaaaaaaa");
         System.out.println();
     }
 }
